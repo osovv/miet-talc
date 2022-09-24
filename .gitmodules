@@ -1,0 +1,3 @@
+[submodule "1-lab"]
+	path = 1-lab
+	url = https://github.com/osovv/calculator-ruby
